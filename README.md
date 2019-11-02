@@ -1,4 +1,4 @@
-# Bible Exploration - Predicting NT, OT, and Authors
+# Bible Exploration - Predicting NT, OT, and Authors :scroll:
 
 ### Background
 The purpose of this notebook is merely to practice and test NLP and unsupervised clustering methods. Using the Bible as text data we utilize BOW and TFIDF vectorization, SpaCy, and topic modeling using various matrix decomposition methods in order to tune two different predictive models.
